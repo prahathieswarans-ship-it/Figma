@@ -557,7 +557,8 @@ module.exports = {
 
 
 ## output:
-![alt text](<<img width="923" height="604" alt="Screenshot 2025-10-11 112012" src="https://github.com/user-attachments/assets/7bae81a4-8be4-434e-913e-da5981a6650f" />>)
+<img width="923" height="604" alt="Screenshot 2025-10-11 112012" src="https://github.com/user-attachments/assets/e103ba22-d974-4a9f-a16f-beb55784752e" />
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
