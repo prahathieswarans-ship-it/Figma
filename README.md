@@ -554,10 +554,10 @@ module.exports = {
     transform: translateY(calc(-100% - var(--gap)));
   }
 }
-
+```
 
 ## output:
-<img width="923" height="604" alt="Screenshot 2025-10-11 112012" src="https://github.com/user-attachments/assets/e103ba22-d974-4a9f-a16f-beb55784752e" />
+<img width="923" height="604" alt="Screenshot 2025-10-11 112012" src="https://github.com/user-attachments/assets/e33dbb69-74df-4c53-bf21-fc249ae7e84c" />
 
 
 ## RESULT:
